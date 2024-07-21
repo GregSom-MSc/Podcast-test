@@ -1,4 +1,6 @@
-# The Future in Tech
+# The Future in Tech  
+
+## Samuel Moreno additional projects. From Villalobos course, hands on.
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
